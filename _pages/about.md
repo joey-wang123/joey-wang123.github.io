@@ -19,3 +19,10 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I'm Zhenyi Wang, currently a Postdoctoral Associate at University of Maryland, College Park, working with Prof. Heng Huang. Previously, I received my PhD from Department of Computer Science and Engineering at University at Buffalo, advised by Prof. Mingchen Gao.
+
+My research interests span across the following areas:
+
+- Continual Learning
+- AI Safety
+- Model Merge and Reuse
+- Meta Learning
