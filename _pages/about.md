@@ -20,7 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 I'm Zhenyi Wang, currently a Postdoctoral Associate at University of Maryland, College Park, working with Prof. Heng Huang. Previously, I received my PhD from Department of Computer Science and Engineering at University at Buffalo, advised by Prof. Mingchen Gao.
 
-My research interests span across the following areas:
+
+**Research Summary:**
+My long-term research goal is to develop artificial general intelligence (AGI) that is data-efficient, capable of continual learning, responsible, secure, and able to reuse and assemble knowledge. Specifically, I have developed algorithms across the following research areas: (1) Continual learning. (2) AI safety for responsible AGI, focusing on protecting model intellectual property and ensuring appropriate usage through applicability authorization mechanisms. (3) Knowledge reuse and reassembly from existing pre-trained models. (4) Data-efficient learning. 
+
+Specifically:
 
 - Continual Learning: (1) Memorization and Generalization Trade-Off [<a href="https://arxiv.org/abs/2207.07256">ICML2022</a>], (2) Generalized Distributionally Robust Memory Evolution [<a href="https://www.computer.org/csdl/journal/tp/2023/12/10258417/1QEwVQys7ok">TPAMI2023</a>], (3) Low-Rank Memory Parameterization [<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d5f34e7e70d80f5037ab16a48e2d186e-Paper-Conference.pdf">NeurIPS2023</a>], (4) Remember and Forget Trade-Off [<a href="https://arxiv.org/abs/2403.13249">ICLR2024</a>], (5) Old Task and New Task Trade-Off [<a href="https://arxiv.org/abs/2403.13249">NeurIPS2024</a>]
 - AI Safety, Deep Model Intellectual Property Protection (1) Applicability/Usage Authorization [<a href="https://openreview.net/pdf?id=FYKVPOHCpE">ICLR2024</a>], (2) Efficient Model Extraction Defense [<a href="https://papers.nips.cc/paper_files/paper/2023/file/0207c9ea9faf66c6e892c3fa3c167b75-Paper-Conference.pdf">NeurIPS2023</a>, <a href="https://openreview.net/pdf?id=EFtNP211X3">ICML2024</a>]
