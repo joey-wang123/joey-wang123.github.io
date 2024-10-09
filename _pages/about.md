@@ -20,9 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 I'm Zhenyi Wang, currently a Postdoctoral Associate at University of Maryland, College Park, working with Prof. Heng Huang. Previously, I received my PhD from Department of Computer Science and Engineering at University at Buffalo, advised by Prof. Mingchen Gao.
 
-
 **Research Summary:**
-My long-term research goal is to develop artificial general intelligence (AGI) that is data-efficient, capable of continual learning, responsible, secure, and able to reuse and assemble knowledge. Specifically, I have developed algorithms across the following research areas: (1) Continual learning. (2) AI safety for responsible AGI, focusing on protecting model intellectual property and ensuring appropriate usage through applicability authorization mechanisms. (3) Knowledge reuse and reassembly from existing pre-trained models. (4) Data-efficient learning. 
+My long-term research goal is to develop artificial general intelligence (AGI) that is data-efficient, capable of continual learning, responsible, secure, and able to reuse and assemble knowledge. Specifically, I have developed algorithms across the following research areas: (1) Continual learning. (2) AI safety for responsible AGI, focusing on protecting model intellectual property and ensuring appropriate usage through applicability authorization mechanisms. (3) Knowledge reuse and reassembly from existing pre-trained models. (4) Data-efficient learning.
 
 Specifically:
 
