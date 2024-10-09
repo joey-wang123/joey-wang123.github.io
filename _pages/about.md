@@ -29,6 +29,9 @@ My research interests span across the following areas:
 
 ### News
 
-- **September 2024** One paper has been accepted by PAMI.
+
+- **September 2024** One paper has been accepted by Neurips 2024.
+
+- **September 2024** One paper has been accepted by TPAMI.
 
 - **July 2024** Two papers accepted at ECCV 2024.
