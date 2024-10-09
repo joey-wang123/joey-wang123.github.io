@@ -2,24 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Associate at University of Maryland, College Park
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Brendan Iribe Center for Computer Science and Engineering</p>
+    <p>8125 Paint Branch Drive</p>
+    <p>College Park, Maryland</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Zhenyi Wang, currently a Postdoctoral Associate at University of Maryland, College Park, working with Prof. Heng Huang. Previously, I received my PhD from Department of Computer Science and Engineering at University at Buffalo, advised by Prof. Mingchen Gao.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests span across the following areas:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Continual Learning
+- AI Safety, Deep Model Intellectual Property Protection [<a href="https://papers.nips.cc/paper_files/paper/2023/file/0207c9ea9faf66c6e892c3fa3c167b75-Paper-Conference.pdf">NeurIPS2023</a>, <a href="https://openreview.net/pdf?id=FYKVPOHCpE">ICLR2024</a>, <a href="https://openreview.net/pdf?id=EFtNP211X3">ICML2024</a>]
+- Model Merge and Reuse [<a href="https://arxiv.org/pdf/2310.02575">ICLR2024</a>, <a href="https://arxiv.org/pdf/2402.02705">ICML2024</a>]
+- Meta Learning
+
+### News
+
+- **September 2024** One paper has been accepted by PAMI.
+
+- **July 2024** Two papers accepted at ECCV 2024.
