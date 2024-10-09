@@ -29,9 +29,14 @@ My research interests span across the following areas:
 
 ### News
 
-
 - **September 2024** One paper has been accepted by Neurips 2024.
 
 - **September 2024** One paper has been accepted by TPAMI.
 
 - **July 2024** Two papers accepted at ECCV 2024.
+
+- **May 2024** Four papers accepted at ICML 2024.
+
+- **February 2024** One paper accepted at CVPR 2024.
+
+- **January 2024** Three papers accepted at ICLR 2024.
