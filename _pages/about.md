@@ -30,6 +30,8 @@ Specifically:
 - Model Merge and Reuse: (1) Adaptive Model Merging [<a href="https://arxiv.org/pdf/2310.02575">ICLR2024</a>], (2) Representation Surgery [<a href="https://arxiv.org/pdf/2402.02705">ICML2024</a>], (3) Model Grouping [<a href="https://arxiv.org/abs/2405.16560">ICML2024</a>]
 - Data Efficient Learning: (1) Bayesian Meta Sampling for Few-Shot Learning Uncertainty Adaptation [<a href="https://openreview.net/forum?id=Bkxv90EKPB">ICLR2020</a>], (2) Neural Tangent Kernel for Inner-Loop-Free Few-Shot Learning [<a href="https://arxiv.org/abs/2102.03909">ICLR2021</a>], (3) Few-Shot Learning in Evolving Domains [<a href="https://arxiv.org/abs/2109.14120">ICCV2021</a>, <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Learning_To_Learn_and_Remember_Super_Long_Multi-Domain_Task_Sequence_CVPR_2022_paper.html">CVPR2022</a>]
 
+Please refer to [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=F4uLsroAAAAJ&view_op=list_works) for more papers
+
 ### News
 
 - **September 2024** One paper has been accepted by NeurIPS 2024.
