@@ -34,6 +34,8 @@ Please refer to [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&u
 
 ### News
 
+- **November 2024** One paper has been accepted by TPAMI.
+
 - **September 2024** One paper has been accepted by NeurIPS 2024.
 
 - **September 2024** One paper has been accepted by TPAMI.
