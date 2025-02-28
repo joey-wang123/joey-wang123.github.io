@@ -32,8 +32,6 @@ Specifically:
 
 Please refer to [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=F4uLsroAAAAJ&view_op=list_works) for more papers
 
-**<span style="color: red;">I am on the academic job market. Feel free to reach out if interested.</span>**
-
 ### News
 
 - **November 2024** One paper has been accepted by TPAMI.
