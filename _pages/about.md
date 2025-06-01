@@ -36,6 +36,8 @@ Specifically:
 
 Please refer to [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=F4uLsroAAAAJ&view_op=list_works) for more papers
 
+<span style="color:red">I am looking for PhD students with strong self-motivation starting in 2026 Spring or Fall. Please email me your CV and transcripts if you are interested.</span>
+
 ### News
 
 - **November 2024** One paper has been accepted by TPAMI.
