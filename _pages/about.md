@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Associate at University of Maryland, College Park
+subtitle: Assistant Professor of Computer Science at the University of Central Florida
 
 profile:
   align: right
