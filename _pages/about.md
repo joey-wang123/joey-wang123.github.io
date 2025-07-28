@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Zhenyi Wang, currently a Postdoctoral Associate at University of Maryland, College Park, working with Prof. Heng Huang. Previously, I received my PhD from Department of Computer Science and Engineering at University at Buffalo in 2023, working with Prof. Mingchen Gao.
+I'm Zhenyi Wang. I am currently an Assistant Professor of Computer Science at the University of Central Florida (UCF), also a member of UCF’s Artificial Intelligence Initiative. Previously, I was a Postdoctoral Associate at University of Maryland, College Park, working with Prof. Heng Huang. I received my PhD from Department of Computer Science and Engineering at University at Buffalo in 2023, working with Prof. Mingchen Gao.
 
 **Research Summary:**
 My long-term research goal is to develop artificial general intelligence (AGI) that is data-efficient, capable of continual learning and trustworthy. Specifically, I have developed algorithms across the following research areas: (1) Biologically and Neuroscience-Inspired Continual Learning. (2) AI safety for responsible AGI, focusing on protecting model intellectual property and ensuring appropriate usage through applicability authorization mechanisms. (3) Data-efficient learning, including limited labeled data learning and data-free multi-task model merge.
@@ -36,7 +36,7 @@ Specifically:
 
 Please refer to [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=F4uLsroAAAAJ&view_op=list_works) for more papers
 
-<span style="color:red">I am looking for PhD students with strong self-motivation starting in 2026 Spring or Fall. Please email me your CV and transcripts if you are interested.</span>
+<span style="color:red">I am looking for Postdocs/PhD/Master/Undergraduate/Intern students with strong self-motivation starting in 2026 Spring or Fall. Please email me your CV and transcripts if you are interested.</span>
 
 ### News
 
