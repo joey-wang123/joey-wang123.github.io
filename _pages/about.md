@@ -25,8 +25,8 @@ My long-term research goal is to develop artificial general intelligence (AGI) t
 
 Specifically:
 
-- **Biologically and Neuroscience-Inspired Continual Learning:** (1) Memorization and Generalization Trade-Off [<a href="https://arxiv.org/abs/2207.07256">ICML2022</a>], (2) Generalized Distributionally Robust Memory Evolution [<a href="https://www.computer.org/csdl/journal/tp/2023/12/10258417/1QEwVQys7ok">TPAMI2023</a>], (3) Low-Rank Memory Parameterization [<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d5f34e7e70d80f5037ab16a48e2d186e-Paper-Conference.pdf">NeurIPS2023</a>], (4) Beneficial Forgetting: A Biology-Inspired Approach to Continual Learning [<a href="https://arxiv.org/abs/2403.13249">ICLR2024</a>], (5) Homeostatic Synaptic Scaling: Old Task and New Task Trade-Off [<a href="https://openreview.net/forum?id=B5vQ7IQW7d&referrer=%5Bthe%20profile%20of%20Zhenyi%20Wang%5D(%2Fprofile%3Fid%3D~Zhenyi_Wang1)">NeurIPS2024</a>]
-- **AI Safety and Trustworthy AI:** Deep Model Intellectual Property Protection: (1) Model Extraction Aggregation [<a href="https://arxiv.org/abs/2305.18413">ICML2023</a>], (2) Sparse Model Inversion [<a href="https://openreview.net/pdf?id=T0lFfO8HaK">ICML2024</a>], (3) Applicability/Usage Authorization [<a href="https://openreview.net/pdf?id=FYKVPOHCpE">ICLR2024</a>], (4) Efficient Model Extraction Defense [<a href="https://papers.nips.cc/paper_files/paper/2023/file/0207c9ea9faf66c6e892c3fa3c167b75-Paper-Conference.pdf">NeurIPS2023</a>, <a href="https://openreview.net/pdf?id=EFtNP211X3">ICML2024</a>]
+- **Continual Learning:** (1) Memorization and Generalization Trade-Off [<a href="https://arxiv.org/abs/2207.07256">ICML2022</a>], (2) Generalized Distributionally Robust Memory Evolution [<a href="https://www.computer.org/csdl/journal/tp/2023/12/10258417/1QEwVQys7ok">TPAMI2023</a>], (3) Low-Rank Memory Parameterization [<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d5f34e7e70d80f5037ab16a48e2d186e-Paper-Conference.pdf">NeurIPS2023</a>], (4) Beneficial Forgetting: A Biology-Inspired Approach to Continual Learning [<a href="https://arxiv.org/abs/2403.13249">ICLR2024</a>], (5) Homeostatic Synaptic Scaling: Old Task and New Task Trade-Off [<a href="https://openreview.net/forum?id=B5vQ7IQW7d&referrer=%5Bthe%20profile%20of%20Zhenyi%20Wang%5D(%2Fprofile%3Fid%3D~Zhenyi_Wang1)">NeurIPS2024</a>]
+- **AI Safety and Trustworthy AI:** Deep Model Intellectual Property Protection: (1) Model Extraction Aggregation [<a href="https://arxiv.org/abs/2305.18413">ICML2023</a>], (2) Sparse Model Inversion [<a href="https://openreview.net/pdf?id=T0lFfO8HaK">ICML2024</a>], (3) Applicability/Usage Authorization [<a href="https://openreview.net/pdf?id=FYKVPOHCpE">ICLR2024</a>], (4) Efficient Model Extraction Defense [<a href="https://papers.nips.cc/paper_files/paper/2023/file/0207c9ea9faf66c6e892c3fa3c167b75-Paper-Conference.pdf">NeurIPS2023</a>, <a href="https://openreview.net/pdf?id=EFtNP211X3">ICML2024</a>, <a href="https://openreview.net/forum?id=029hDSVoXK">ICLR2025</a>]
 - **Data-Efficient Learning:**
 
   [1] **Limited Labeled Data Learning**:
@@ -34,11 +34,17 @@ Specifically:
 
   [2] **Model Merge and Reuse:** (1) Adaptive Model Merging [<a href="https://arxiv.org/pdf/2310.02575">ICLR2024</a>], (2) Representation Surgery [<a href="https://arxiv.org/pdf/2402.02705">ICML2024</a>], (3) Model Grouping [<a href="https://arxiv.org/abs/2405.16560">ICML2024</a>]
 
+- **Large Language Models:**: Multi-modality foundation model distillation <a href="https://openreview.net/forum?id=1aF2D2CPHi">ICLR2025</a>]
+
 Please refer to [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=F4uLsroAAAAJ&view_op=list_works) for more papers
 
-<span style="color:red">I am looking for Postdocs/PhD/Master/Undergraduate/Intern students with strong self-motivation starting in 2026 Spring or Fall. Please email me your CV and transcripts if you are interested.</span>
+<span style="color:red">I am looking for Postdocs/PhD/Master/Undergraduate/Intern students with strong self-motivation starting in 2026 Spring or Fall. Please email me your CV and transcripts if you are interested. Email me: wangzhenyineu@gmail.com </span>
 
 ### News
+
+- **January 2025** One paper has been accepted by TPAMI.
+
+- **January 2025** Two papers have been accepted by ICLR 2025.
 
 - **November 2024** One paper has been accepted by TPAMI.
 
