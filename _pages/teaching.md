@@ -33,4 +33,4 @@ nav_order: 6
 
 - Journal Reviewer:
 
-  TPAMI, IJCV, ACM Computing Surveys
+  TPAMI, IJCV, TIP, ACM Computing Surveys
