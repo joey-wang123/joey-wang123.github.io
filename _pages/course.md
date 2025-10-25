@@ -17,8 +17,6 @@ Class Meeting Days: Monday Wednesday
 
 Class Meeting Time: 09:00AM - 10:15AM
 
-Class Meeting Location: ​CB1 O220
-
 Credit Hours: 3.00
 
 Instructor: Zhenyi Wang
