@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Computer Science at the University of Central Florida
+subtitle: Associate Professor at the Southern University of Science and Technology
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Zhenyi Wang. I am currently an Assistant Professor of Computer Science at the University of Central Florida (UCF), also a member of UCF’s Artificial Intelligence Institute. Previously, I was a Postdoctoral Associate at University of Maryland, College Park, working with Prof. Heng Huang. I received my PhD from Department of Computer Science and Engineering at University at Buffalo in 2023, working with Prof. Mingchen Gao.
+I'm Zhenyi Wang. I am currently an Associate Professor in Department of  at the University of Science and Technology (SUSTech). Before that, I was an Assistant Professor of Computer Science at the University of Central Florida (UCF), also a member of UCF’s Artificial Intelligence Institute.  Previously, I was a Postdoctoral Associate at University of Maryland, College Park, working with Prof. Heng Huang. I received my PhD from Department of Computer Science and Engineering at University at Buffalo in 2023, working with Prof. Mingchen Gao.
 
 **Research Summary:**
 My long-term research goal is to develop artificial general intelligence (AGI) that is data-efficient, capable of continual learning and trustworthy. Specifically, I have developed algorithms across the following research areas: (1) Biologically and Neuroscience-Inspired Continual Learning. (2) AI safety for responsible AGI, focusing on protecting model intellectual property and ensuring appropriate usage through applicability authorization mechanisms. (3) Data-efficient learning, including limited labeled data learning and data-free multi-task model merge.
@@ -31,32 +31,10 @@ Specifically:
 
   [2] **Model Merge and Reuse:** (1) Adaptive Model Merging [<a href="https://arxiv.org/pdf/2310.02575">ICLR2024</a>], (2) Representation Surgery [<a href="https://arxiv.org/pdf/2402.02705">ICML2024</a>], (3) Model Grouping [<a href="https://arxiv.org/abs/2405.16560">ICML2024</a>]
 
-- **Large Language Models:**: Multi-modality foundation model distillation [<a href="https://openreview.net/forum?id=1aF2D2CPHi">ICLR2025</a>]
+- **Large Language Models:**: Multi-modality foundation model distillation [<a href="https://openreview.net/forum?id=1aF2D2CPHi">ICLR2025</a>, <a href="https://openreview.net/forum?id=8mHZWTeF3z">NeurIPS2025</a>, <a href="https://openreview.net/forum?id=8mHZWTeF3z">ICLR2026</a>, <a href="https://arxiv.org/abs/2603.25711">ECCV2026</a>, <a href="https://arxiv.org/abs/2602.04096">ICML2026</a>] 
 
 Please refer to [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=F4uLsroAAAAJ&view_op=list_works) for more papers
 
-<span style="color:red">I am looking for Postdocs/PhD/Master/Undergraduate/Intern students with strong self-motivation starting in 2026 Spring or Fall. Please email me your CV and transcripts if you are interested. Email me: wangzhenyineu@gmail.com </span>
+<span style="color:red">I am looking for Postdocs/PhD/Master/Undergraduate/Research Assistant students with strong self-motivation. Please email me your CV and transcripts if you are interested. Email me: wangzhenyineu@gmail.com </span>
 
-### News
 
-- **January 2025** One paper has been accepted by TPAMI.
-
-- **January 2025** Two papers have been accepted by ICLR 2025.
-
-- **November 2024** One paper has been accepted by TPAMI.
-
-- **September 2024** One paper has been accepted by NeurIPS 2024.
-
-- **September 2024** One paper has been accepted by TPAMI.
-
-- **July 2024** Two papers accepted at ECCV 2024.
-
-- **May 2024** Four papers accepted at ICML 2024.
-
-- **February 2024** One paper accepted at CVPR 2024.
-
-- **January 2024** Three papers accepted at ICLR 2024.
-
-- **September 2023** Two papers has been accepted by NeurIPS 2023.
-
-- **September 2023** One paper has been accepted by TPAMI.
